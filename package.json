@@ -1,0 +1,22 @@
+{
+  "name": "specs",
+  "version": "1.0.0",
+  "description": "base app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbuehl91/Specs.git"
+  },
+  "keywords": [
+    "specs"
+  ],
+  "author": "patrick.buehl91@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbuehl91/Specs/issues"
+  },
+  "homepage": "https://github.com/pbuehl91/Specs#readme"
+}
