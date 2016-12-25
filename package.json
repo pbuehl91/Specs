@@ -19,15 +19,18 @@
     "url": "https://github.com/pbuehl91/Specs/issues"
   },
   "homepage": "https://github.com/pbuehl91/Specs#readme",
+  "dependencies": {
+    "angular-ui-bootstrap": "^2.3.1"
+  },
   "devDependencies": {
     "es6-shim": "^0.35.2",
     "gulp-angular-templatecache": "^2.0.0",
     "gulp-bump": "^2.5.1",
+    "gulp-clean-css": "^2.3.2",
     "gulp-concat": "^2.6.1",
     "gulp-connect": "^5.0.0",
     "gulp-debug": "^3.0.0",
     "gulp-gzip": "^1.4.0",
-    "gulp-minify-css": "^1.2.4",
     "gulp-protractor": "^3.0.0",
     "gulp-sass": "^3.0.0",
     "gulp-tar": "^1.9.0",
